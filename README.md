@@ -6,9 +6,9 @@ Currently a third-year student at Epitech Nancy.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma%C3%ABl-mamadou-diagne-89b411259/)    
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23390168)   
-[![Twitter Follow](https://img.shields.io/badge/follow-%4017Mogza-1DA1F2?logo=twitter&style=social)](https://twitter.com/17Mogza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma%C3%ABl-mamadou-diagne-89b411259/)    
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23390168)   
+[![Twitter Follow](https://img.shields.io/badge/follow-%4017Mogza-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/17Mogza)
 
 
 
