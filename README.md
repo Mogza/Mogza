@@ -10,8 +10,3 @@ Currently a third-year student at Epitech Nancy.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23390168)   
 [![Twitter Follow](https://img.shields.io/badge/follow-%4017Mogza-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/17Mogza)
 
-
-
-## 📫 Reach me:
-📧mael-mamadou.diagne@epitech.eu
-
