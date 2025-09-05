@@ -1,5 +1,5 @@
 # 💫 Hello there :
-Currently a third-year student at Epitech Nancy.
+Currently a fourth-year student at Epitech 🇫🇷 and exchange student at Dankook University 🇰🇷.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mogza&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
