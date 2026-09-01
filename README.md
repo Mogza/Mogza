@@ -1,5 +1,5 @@
 # 💫 Hello there :
-Currently a fourth-year student at Epitech 🇫🇷 and exchange student at Dankook University 🇰🇷.
+Currently a 5th year student at Epitech 🇫🇷
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mogza&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
