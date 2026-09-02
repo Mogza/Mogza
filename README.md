@@ -7,5 +7,5 @@ Currently a 5th year student at Epitech 🇫🇷
 
 ## 🌐 Socials:
 [![Twitter Follow](https://img.shields.io/badge/follow-%4017Mogza-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/17Mogza)      
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma%C3%ABl-mamadou-diagne-89b411259/)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-diagne)    
 
